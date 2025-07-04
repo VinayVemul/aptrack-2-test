@@ -1,4 +1,3 @@
-hi
 
 git fetch => fetch all branches
 
