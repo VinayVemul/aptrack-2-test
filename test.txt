@@ -1,6 +1,0 @@
-
-git fetch => fetch all branches
-
-git checkout development
-
-git checkout -b "feature/uer-auth-login-api"
